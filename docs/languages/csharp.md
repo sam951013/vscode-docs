@@ -10,11 +10,11 @@ MetaSocialImage: images/csharp/languages_csharp.png
 ---
 # Working with C&#35;
 
-The C# support in Visual Studio Code is optimized for cross-platform .NET development (see [working with .NET and VS Code](/docs/languages/dotnet.md) for another relevant article). Our focus with VS Code is to be a great editor for cross-platform C# development by providing a rich C# editing experience, AI-powered development, solution management, and integrated testing experiences
+The C# support in Visual Studio Code is optimized for cross-platform .NET development (see [working with .NET and VS Code](/docs/languages/dotnet.md) for another relevant article). Our focus with Visual Studio Code is to be a great editor for cross-platform C# development by providing a rich C# editing experience, AI-powered development, solution management, and integrated testing experiences
 
 ![C# language within VS Code](images/csharp/csharp-hero.png)
 
-VS Code supports debugging of C# applications running on either .NET or Mono.
+Visual Studio Code supports debugging of C# applications running on either .NET or Mono.
 
 For detailed instructions on:
 
